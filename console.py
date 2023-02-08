@@ -5,6 +5,7 @@
 
 import cmd
 
+
 class HbnbCommand(cmd.Cmd):
     prompt = '(hbnb) '
 
