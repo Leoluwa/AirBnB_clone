@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Okechukwu Okwor
-
 Abdulwahab Usman
+
+Okechukwu Okwor
